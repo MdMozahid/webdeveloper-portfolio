@@ -198,3 +198,23 @@ main section {
      line-height: 28px;
      margin-bottom: 20px;
 }
+
+.download-CV {
+     text-align: center;
+     color: #FFF;
+     text-align: center;
+     font-size: 20px;
+     font-weight: 700;
+     margin-top: 50px;
+
+}
+
+/* footer style section */
+
+ footer{
+     display: flex;
+     background: #FFF8F3;
+     padding: 190px 230px;
+     margin-top: 100px;
+ }   
+
